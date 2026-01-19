@@ -34,6 +34,12 @@ Deployed a web server on AWS EC2 with proper security configurations.
 ## Apache Web Server Running
 ![Webserver Running](images/server-up.png)
 
+## EC2 Instance
+![EC2 Instance](images/ec2-instance.png)
+
+### Security Group Configuration
+![Security Groups](images/security-groups.png)
+
 
 ## What I Learned
 - How to launch and configure EC2 instances
