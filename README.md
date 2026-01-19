@@ -31,6 +31,7 @@ Deployed a web server on AWS EC2 with proper security configurations.
 - Web server installation
 
 ## Screenshot
+## Apache Web Server Running
 ![Webserver Running](images/server-up.png)
 
 
