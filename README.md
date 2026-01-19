@@ -50,4 +50,4 @@ Deployed a web server on AWS EC2 with proper security configurations.
 - SSH key pair authentication
 - Elastic ip provide static public ip address
 - AWS charge for idle Elastic ip so you need to associate it to an instance and release when not in use
-- Elastic ips are used when white-listsing or when you need a constant acess point
+- Elastic ips are used when white-listing or when you need a constant acess point
