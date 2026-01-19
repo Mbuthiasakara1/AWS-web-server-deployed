@@ -40,9 +40,14 @@ Deployed a web server on AWS EC2 with proper security configurations.
 ### Security Group Configuration
 ![Security Groups](images/security-groups.png)
 
+### Elastic ip adddition
+![Elastic ip](images/elastic-ip.png)
 
 ## What I Learned
 - How to launch and configure EC2 instances
 - Importance of security group rules
 - Basic Linux administration
 - SSH key pair authentication
+- Elastic ip provide static public ip address
+- AWS charge for idle Elastic ip so you need to associate it to an instance and release when not in use
+- Elastic ips are used when white-listsing or when you need a constant acess point
